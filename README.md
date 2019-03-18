@@ -54,7 +54,18 @@ Execute the following command to install mysql.
 
 > `sudo apt remove --purge phpmyadmin`
 
+#### mysql_command_export_import.sql file
+**mysql single table export command:
 
+>`mysqldump -u username -p password database_name apply_onlines > database_name.sql`
+
+**Export database to .sql file:
+
+>`mysqldump -u -p password username database_name > database_name.sql`
+
+**Import database from .sql file:
+
+>`mysql -u username -p password database_name < database_name.sql`
 
 
 
