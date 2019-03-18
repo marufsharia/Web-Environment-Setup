@@ -99,12 +99,12 @@ you must have curl package installed for the commands to work.. if not, just run
  
  + Go to this link [https://www.phpmyadmin.net/themes/#pma_4_6](https://www.phpmyadmin.net/themes/#pma_4_6)  and download the desired theme listed under the version number of your installation. Say you have downloaded the fallen-0.3.zip file.
  
- + After successfully completed extract zip file paste those in theme folder  ** /usr/share/phpmyadmin/themes/ **
+ + After successfully completed extract zip file paste those in theme folder  **/usr/share/phpmyadmin/themes/**
  
  + All most done  just need to restart apache server by following command 
  
  > `sudo service apache2 restart`
  
- ** Yahoooo done... ** 😎️😎️😎️ 
- just open phpmyadmin in your favrouite browser and go ** Appearance settings ** and choose your last installed theme. 
+ **Yahoooo done...** 😎️😎️😎️ 
+ just open phpmyadmin in your favrouite browser and go **Appearance settings** and choose your last installed theme. 
 
