@@ -87,7 +87,7 @@ you must have curl package installed for the commands to work.. if not, just run
 <br>
 
 ---
-## Bounus 
+## Bonus 
 
 * Give write permission of a directory 
 > `sudo chown -R www-data:www-data /var/www/html/`
