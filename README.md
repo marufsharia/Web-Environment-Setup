@@ -46,3 +46,11 @@ you must have curl package installed for the commands to work.. if not, just run
  After installed curl , run the following command to install composer.
  
 > `curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer`
+
+
+
+
+
+### Uninstall/Remove Apache2 php mysql phpmyadmin
+
+> `sudo apt remove apache2 apache2-bin apache2-data apache2-utils libapache2-mod-php libapache2-mod-php7.0 php7.0-mysql php7.0-opcache php7.0-readline  mysql-client-5.7 mysql-client-core-5.7 mysql-common mysql-server mysql-server-5.7 mysql-server-core-5.7 php-mysql php7.0-mysql php-common php-mysql php7.0-cli php7.0-common php7.0-json`
