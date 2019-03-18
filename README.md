@@ -42,6 +42,7 @@ Then make the change the following lines below in the file and save.
 Execute the following command to install mysql.
 
 > `sudo apt install mysql-server`
+
 > `sudo apt install php7.2-mysql`
 
 
