@@ -97,11 +97,11 @@ you must have curl package installed for the commands to work.. if not, just run
 
  + Note your phpMyAdmin version. You can see this on the bottom right corner of the phpMyAdmin home page. In my case, the version is 4.6.6deb5.
  
- + Go to this link [https://www.phpmyadmin.net/themes/#pma_4_6](https://www.phpmyadmin.net/themes/#pma_4_6)  and download the desired theme listed under the version number of your installation. Say you have downloaded the fallen-0.3.zip file.
+ + Go to this link [https://www.phpmyadmin.net/themes/#pma_4_6](https://www.phpmyadmin.net/themes/#pma_4_6)  and download the desired theme listed under the version number of your installation. Say you have downloaded the **fallen-0.3.zip** file.
  
- + After successfully completed extract zip file paste those in theme folder  **/usr/share/phpmyadmin/themes/**
+ + After successfully download completed, extract the zip file paste it in theme directory  **/usr/share/phpmyadmin/themes/**
  
- + All most done  just need to restart apache server by following command 
+ + All most done  just need to restart apache server by the following command 
  
  > `sudo service apache2 restart`
  
