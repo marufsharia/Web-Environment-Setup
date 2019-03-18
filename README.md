@@ -10,8 +10,8 @@ We’re going to be installing Apache2 web server… to do that, run the followi
 After installing, the commads below can be used to stop, start and enable Apache2 service to always start up with the server boots.
 
 > `sudo systemctl stop apache2.service`
-`sudo systemctl start apache2.service`
-`sudo systemctl enable apache2.service`
+> `sudo systemctl start apache2.service`
+> `sudo systemctl enable apache2.service`
 -------
 
 ### Install PHP 7.2 and Related Modules
