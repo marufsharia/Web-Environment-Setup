@@ -30,8 +30,11 @@ After install PHP, run the commands below to open PHP-FPM default file.
 Then make the change the following lines below in the file and save.
 
 > `memory_limit = 256M`
- `upload_max_filesize = 64M`
- `cgi.fix_pathinfo=0`
+
+>`upload_max_filesize = 64M`
+
+> `cgi.fix_pathinfo=0`
+ 
 ------
 ###  Install Composer to Download Laravel
 
