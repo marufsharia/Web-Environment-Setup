@@ -5,7 +5,7 @@ Environment Configuration for web programming such as php (Laravel)  , nodejs �
 We’re going to be installing Apache2 web server… to do that, run the following commands 
 
 > `sudo apt update` <br>
-`sudo apt update`
+> `sudo apt install apache2`
 ---------
 After installing, the commads below can be used to stop, start and enable Apache2 service to always start up with the server boots.
 
