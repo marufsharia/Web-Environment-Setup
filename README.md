@@ -1,8 +1,9 @@
-# Web-Environment-Setup
-Environment Configuration for web programming such as php (Laravel)  , nodejs
+# Web-Environment-Setup 
+Environment Configuration for web programming such as php (Laravel)  , nodejs 🍺️
 
 ### Install Apache2
 We’re going to be installing Apache2 web server… to do that, run the following commands 
+
 > `sudo apt update`
 `sudo apt update`
 ---------
@@ -35,5 +36,10 @@ Then make the change the following lines below in the file and save.
 ###  Install Composer to Download Laravel
 
 Run the commands below to install composer package and install.
-you must have curl package installed for the commands to work.. if not, just run `==sudo apt install curl==` to install it.After that run the following command.
+you must have curl package installed for the commands to work.. if not, just run the following command  to install curl.
+
+>   `sudo apt install curl` 
+
+ After installed curl , run the following command to install composer.
+ 
 > `curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer`
