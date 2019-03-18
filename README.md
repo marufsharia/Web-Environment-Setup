@@ -35,5 +35,5 @@ Then make the change the following lines below in the file and save.
 ###  Install Composer to Download Laravel
 
 Run the commands below to install composer package and install.
-you must have curl package installed for the commands to work.. if not, just run `==sudo apt install curl`== to install it.After that run the following command.
+you must have curl package installed for the commands to work.. if not, just run `==sudo apt install curl==` to install it.After that run the following command.
 > `curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer`
