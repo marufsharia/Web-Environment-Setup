@@ -119,3 +119,7 @@ you must have curl package installed for the commands to work.. if not, just run
  **Yahoooo done...** 😎️😎️😎️ 
  just open phpmyadmin in your favrouite browser and go **Appearance settings** and choose your last installed theme. 
 
+================================================================
+password reset
+================================================================
+https://stackoverflow.com/questions/39281594/error-1698-28000-access-denied-for-user-rootlocalhost
